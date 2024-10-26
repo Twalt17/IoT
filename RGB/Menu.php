@@ -52,7 +52,7 @@
     <a href="https://www.tylerwalters17.com/APIs/LED.php">RGB Control</a>
     <a href="https://www.tylerwalters17.com/APIs/LED.php">LED Control</a>
     <a href="https://www.tylerwalters17.com">Home Page</a>
-    <a href="https://github.com/faridfarahmand/SSU.git" target="_blank">IoT GitHub Link</a>
+    <a href="https://github.com/Twalt17/IoT" target="_blank">Iot GitHub Link</a>
 </div>
 
 <footer>
